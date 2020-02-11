@@ -1,2 +1,2 @@
 # phanban2
-Day la du an tao webside cho Phan Ban 2
+Đây là dự án tạo webside cho Phân ban 2
